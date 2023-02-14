@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Onkar Jamma and I'm a AI&DS Student, from Solapur</h1>
+<h1 align="left">Hi 👋! My name is Akash Rathod and I'm a AI&DS Student, from Solapur</h1>
 
 ###
 
